@@ -4,6 +4,6 @@ if [ .base -nt .stamp ] ; then
 fi
 
 docker build \
-	--tag=localhost/afcowie/debian:stretch \
+	--tag=docker.io/oprdyn/debian:stretch \
 	--network=proxy \
 	.
