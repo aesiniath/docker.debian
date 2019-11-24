@@ -1,4 +1,4 @@
-FROM docker.io/library/debian:stretch
+FROM docker.io/library/debian:buster
 
 ENV DEBIAN_FRONTEND noninteractive
 
