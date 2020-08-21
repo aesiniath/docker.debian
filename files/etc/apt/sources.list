@@ -1,2 +1,2 @@
-deb http://packages/debian/ buster main
-deb http://packages/debian/ buster-updates main
+deb http://127.0.0.1:1999/debian/ buster main
+deb http://127.0.0.1:1999/debian/ buster-updates main
